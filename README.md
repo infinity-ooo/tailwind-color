@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/infinity-ooo/tailwind-color/assets/9530963/a25783d9-b35c-4387-abf0-e96261aeebc2" alt="tailwind-color" /> 
+  <img src="https://github.com/infinity-ooo/tailwind-color/assets/9530963/2207bcab-57b9-47a0-b5a8-e48ebbd51e5c" alt="tailwind-color" /> 
 </p>
 
 ## Install
@@ -23,4 +23,4 @@ Text("Hello, TailwindColor!")
 
 Every color constant within TailwindColor is a valid Color instance:
 
-![color-palette](https://github.com/infinity-ooo/tailwind-color/assets/9530963/1d33c76e-f07f-4a7d-9c3a-40c6b62c9afb)
+![color-palette](https://github.com/infinity-ooo/tailwind-color/assets/9530963/eccce543-6a1c-4372-825d-a83653f33562)
