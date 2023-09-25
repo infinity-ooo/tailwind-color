@@ -30,6 +30,8 @@ public struct TailwindColor {
     }
 }
 
+public typealias TC = TailwindColor
+
 extension TailwindColor {
     /// Slate
     public static let slate50 = TailwindColor.create(hex: "#f8fafc")
