@@ -9,7 +9,7 @@ import SwiftUI
 import TailwindColor
 
 struct ContentView: View {
-    @State var colors: [Color] = TailwindColor.blue
+    @State var colors: [Color] = TC.blue
 
     var body: some View {
         ZStack {
