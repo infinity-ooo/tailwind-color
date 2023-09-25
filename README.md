@@ -17,6 +17,10 @@ import TailwindColor
 
 Text("Hello, TailwindColor!")
     .foregroundStyle(TailwindColor.blue600)
+    
+// or you can use the shorthand `TC` for TailwindColor 
+Text("Hello, TailwindColor!")
+    .foregroundStyle(TC.blue600)
 ```
 
 ## TailwindColor Palette
